@@ -1,2 +1,3 @@
 # pokeAxios
-Pokedex de console criado para aprender a utilizar o Axios e consumir os dados da API do Pokemon
+Pokedex de console criado em Node.js para aprender a utilizar o Axios, Promisses e consumir os dados de uma API.
+
